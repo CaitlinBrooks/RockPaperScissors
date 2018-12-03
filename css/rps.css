@@ -1,0 +1,27 @@
+img{
+    max-width: 300px;
+    max-height: 300px;
+}
+body{
+    background-color: lightskyblue;
+    text-align: center;
+}
+#options{
+    text-align: center;
+    height:400px;
+    display: inline-flex;
+
+}
+#answer{
+    height:300px;
+    width: 300px;
+    border: 3px solid black;
+
+}
+#answer:hover{
+    border: 3px solid yellow;
+}
+#score{
+    width: 100%;
+    text-align: center;
+}
