@@ -2,7 +2,7 @@ var playerWin = 0;
 var aiWin = 0;
 var draws = 0;
 var playerRoll; //rock = 1, paper = 2, scissors = 3
-var gameMessage = $('#game-message');//Clean up the JS a lil
+var gameMessage = $('#game-message');
 var scoreBoard = $('#scoreboard');
 
 
